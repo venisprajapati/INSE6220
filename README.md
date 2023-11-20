@@ -1,2 +1,2 @@
 # INSE6220
-Project for Advanced Statistical Approaches to Quality
+## Principal Component Analysis and Diabetes Detection Data Set Using Machine Learning
